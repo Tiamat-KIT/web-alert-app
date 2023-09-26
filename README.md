@@ -52,3 +52,8 @@
 
 ### middlewareの作成
 `bun add @supabase/auth-helpers-nextjs @supabase/supabase-js`
+
+### モバイルアプリにデプロイしたいなら
+Tauriというフレームワークを使って
+Rustでバックエンドを実装する
+
