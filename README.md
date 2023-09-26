@@ -60,3 +60,5 @@ Rustでバックエンドを実装する。
 バックエンド処理自体はRust側に実装する
 フロントエンド側はそのRustのコードを呼び出す関数を設置する
 
+
+https://zenn.dev/laiso/articles/825ee7e652ad1b
