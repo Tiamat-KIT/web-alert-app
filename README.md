@@ -62,3 +62,4 @@ Rustでバックエンドを実装する。
 
 
 https://zenn.dev/laiso/articles/825ee7e652ad1b
+https://qiita.com/aqua_ix/items/d8d0c373df074fc599fc
